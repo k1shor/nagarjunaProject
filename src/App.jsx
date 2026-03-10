@@ -12,6 +12,7 @@ import MyRoutes from './MyRoutes'
 import { Provider } from 'react-redux'
 
 import './App.css'
+import userReducer from './components/reducers/userReducer'
 
 
 const App = () => {
